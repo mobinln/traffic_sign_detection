@@ -1,0 +1,4 @@
+./GTSRB
+GTSRB
+./GTSRB/*
+__pycache__
