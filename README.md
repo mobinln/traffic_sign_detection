@@ -1,6 +1,3 @@
-## How to run the code?
+## Traffic Sign Detection
 
-1. First download training and test dataset from these links:
-
--   [GTSRB_Final_Test_Images.zip](https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/GTSRB_Final_Test_Images.zip)
--   [GTSRB_Final_Training_Images.zip](https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/GTSRB_Final_Training_Images.zip)
+This repository contains the implementation of a deep learning model designed to classify traffic signs from the German Traffic Sign Recognition Benchmark (GTSRB) dataset. The model achieves an accuracy of ~95% on the test set, demonstrating high reliability in recognizing road signs. Although the original competition took place in 2011, this implementation showcases a modern approach to the problem.
